@@ -8,7 +8,7 @@
 PG_USER=mlflow
 PG_PASSWORD=mlflow
 PG_DATABASE=mlflow
-MLFLOW_BUCKET_NAME=otus-mlflow-bucket
+MLFLOW_BUCKET_NAME=skillbox-mlflow-bucket
 MINIO_ROOT_USER=admin
 MINIO_ROOT_PASSWORD=dZh5222@
 MLFLOW_S3_ENDPOINT_URL=http://localhost:9000
